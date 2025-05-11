@@ -15,7 +15,10 @@ ENV/
 
 # Collected data
 CollectedData/
-CollectedData.zip
+*.zip
+logs/
+output/
+stolen/
 
 # IDE specific files
 .idea/
@@ -30,3 +33,15 @@ desktop.ini
 # Compiled executables
 *.exe
 *.spec
+
+# Credentials and sensitive information
+*.token
+*.key
+*.pem
+*.env
+config.json
+
+# Temporary files
+*.tmp
+*.bak
+*.log
