@@ -1,0 +1,10 @@
+psutil
+pyautogui
+opencv-python
+pycryptodome
+requests
+pillow
+pywin32
+browser-history
+pywifi
+pyinstaller 
